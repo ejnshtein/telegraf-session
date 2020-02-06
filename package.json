@@ -1,6 +1,6 @@
 {
   "name": "@telegraf/session",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Telegraf Session package",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ejnshtein/telegraf-session.git"
   },
+  "typings": "./typings/index.d.ts",
   "type": "module",
   "engines": {
     "node": ">=13.5"
